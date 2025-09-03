@@ -91,7 +91,7 @@ You can use this link to help you write better looking Markdown files. Now that 
 
 ## Optional
 
-1. Add me (Zhenlei Song, songzl@tamu.edu) as a collaborator.
+1. Add me (Yuhang Xie, xieyuhang1997@tamu.edu) (username: RMA1997) as a collaborator.(For lab section 500, 501, 502)
 2. push local changes to remote repo.
 
     ```shell
